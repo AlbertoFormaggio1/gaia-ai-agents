@@ -18,6 +18,9 @@ However, due to the inherent non-deterministic behavior of these large language 
 
 Additionally, a substantial number of tools were necessary to enhance performance given the limitations of these more economical models. For instance, a dedicated chess tool was implemented due to consistent inaccuracies in parsing image data by GPT-4.1-mini and Gemini models.
 
+## The certificate
+<img src="certificate.jpg">
+
 ## Installation
 
 1\. **Clone the repository**
